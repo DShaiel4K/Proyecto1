@@ -2,4 +2,25 @@ h1 {
     background-color: yellow;
     font-family: arial;
     color:black;
+    padding: 15px;
+}
+
+p {
+    font-family: arial;
+}
+
+table {
+    width: 100%;
+    background-color: yellow;
+    text-align: center;
+}
+
+a {
+    color: black;
+    font-family: arial;
+    text-decoration: none;
+}
+
+td {
+    padding: 8px;
 }
