@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function() {
 
-    alert("Holanda");
+    alert("Al continuar navegando estás indicando que aceptas nuestros términos y condiciones");
     
 });
